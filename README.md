@@ -1,4 +1,4 @@
-amazing resume in github 
+amazing resume in github   
 
 <h2 align="center"> Hi there 👋 My name is Fernando</h2>
 <p align="center">I am a Machine Learning and Deep Learning Engineer, working and experimenting with NLP models for text classification and analysis. Humor documents are a funny area for experiments, I am working on it! I am a Blockchain Developer and Quantum computing Enthusiast. I am working and researching on some projects using Solidity for Ethereum and Hyperledger for blockchain Dapps, and Qiskit for Quantum algorithms development.
